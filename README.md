@@ -7,7 +7,7 @@ I'm Siva Kumar
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning React
+
+
 🛠  Tech Stack
 
-💻   C Java JavaScript
+-💻   C Java JavaScript
 
-🌐   HTML5 CSS Bootstrap React 
+-🌐   HTML5 CSS Bootstrap React 
 
-🛢    MySQL
+-🛢    MySQL
 
-⚙️   Git GitHub FireBase 
+-⚙️   Git GitHub FireBase 
 
-🔧   Blender Adobe XD VS Code
+-🔧   Blender Adobe XD VS Code
+
