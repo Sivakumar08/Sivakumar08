@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Web3
 
 
 🛠  Tech Stack
 
--💻   C Java JavaScript
+-💻   C Java JavaScript Python
 
--🌐   HTML5 CSS Bootstrap React 
+-🌐   HTML5 CSS Bootstrap React Node Express
 
--🛢    MySQL
+-🛢    MySQL MongoDB Data Science
 
 -⚙️   Git GitHub FireBase 
 
